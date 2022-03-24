@@ -6,7 +6,6 @@
 import random
 import os
 
-
 def Main():
     ThisGame = Breakthrough()
     ThisGame.Test()

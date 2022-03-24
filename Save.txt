@@ -1,5 +1,5 @@
 0
-P a,F a,K a
+Pa,F a,K a
 N
 P b 1,P c 8,P a 3,P c 11,K c 32,
 
