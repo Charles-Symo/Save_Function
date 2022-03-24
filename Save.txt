@@ -1,0 +1,7 @@
+0
+P a,F a,K a
+N
+P b 1,P c 8,P a 3,P c 11,K c 32,
+
+
+P c 5,K a 24,K b 19,Dif 33,F c 29,K b 31,F b 28,Dif 35,P c 14,F c 23,P b 13,K c 26,P c 2,Dif 34,P a 9,Dif 36,F c 17,P b 4,F b 16,P a 6,P b 10,F a 21,K a 30,P a 12,F b 22,Dif 37,K c 20,F a 27,P b 7,K b 25,F a 15,K a 18,P a 0,
